@@ -1,29 +1,30 @@
 {
-  "name": "expo-modal",
-  "version": "1.0.7",
-  "description": "Shows the modal full screen on the react-native window",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native-modal",
-    "react-native-expo-modal",
-    "expo-modal",
-    "expo-modal-full-screen",
-    "react-native-modal-full-screen"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/codersera-repo/expo-modal.git"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.20.0",
-    "prop-types": ">=10.0.0"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "prop-types": "^15.7.2"
-  }
+    "name": "expo-modal",
+    "version": "1.0.7",
+    "description": "Shows the modal full screen on the react-native window",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-modal",
+        "react-native-expo-modal",
+        "expo-modal",
+        "expo-modal-full-screen",
+        "react-native-modal-full-screen"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/enjloezz/expo-modal.git"
+    },
+    "peerDependencies": {
+        "react-native": ">=0.20.0",
+        "prop-types": ">=10.0.0",
+        "react-native-scl-alert": "enjloezz/react-native-scl-alert"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prop-types": "^15.7.2"
+    }
 }
