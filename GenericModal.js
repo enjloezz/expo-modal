@@ -40,6 +40,7 @@ class GenericModal extends Component {
 
   onClose = () => {
     this.setState({
+      isVisible: false,
       title: null,
       subtitle: null,
       buttons: null,
